@@ -1,55 +1,216 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Descubra Seu Temperamento: Uma Jornada de Autoconhecimento!!",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Como você se sente ao trabalhar em equipe?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Motivado a liderar e tomar decisões", "alias":"A"},
+        {"id": 2, "name":"Confortável, mantendo a harmonia do grupo", "alias":"B"},
+        {"id": 3, "name":"Energizado pela interação social", "alias":"C"},
+        {"id": 4, "name":"Preocupado com a precisão e os detalhes", "alias":"D"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Como você reage sob pressão?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Busco soluções rápidas e assertivas", "alias":"A"},
+        {"id": 2, "name":"Mantenho a calma e busco a estabilidade", "alias":"B"},
+        {"id": 3, "name":"Tento manter o ânimo e motivar os outros", "alias":"C"},
+        {"id": 4, "name":"Preocupo-me com os possíveis erros e consequências", "alias":"D"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Qual é a sua abordagem para resolver conflitos?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Direto, buscando uma solução eficaz", "alias":"A"},
+        {"id": 2, "name":"Evito confrontos e prefiro uma solução pacífica", "alias":"B"},
+        {"id": 3, "name":"Aberto e comunicativo, tentando agradar a todos", "alias":"C"},
+        {"id": 4, "name":" Analítico, pensando cuidadosamente sobre cada aspecto.", "alias":"D"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "O que te motiva no trabalho ?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Desafios e oportunidades para liderar", "alias":"A"},
+        {"id": 2, "name":"Ambiente estável e sem conflitos", "alias":"B"},
+        {"id": 3, "name":"Trabalho em equipe e ambiente social", "alias":"C"},
+        {"id": 4, "name":"Precisão do trabalho e atenção aos detalhes", "alias":"D"}
       ]
     },
     {
-      "id":5,
-      "question": "Qual o seu apelido de super ser ?",
-      "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+      "id": 5,
+      "question": "Como você prefere passar seu tempo livre?",
+      "options": [
+        {"id": 1, "name":"Envolvendo-me em atividades desafiadoras", "alias":"A"},
+        {"id": 2, "name":"Relaxando em um ambiente tranquilo", "alias":"B"},
+        {"id": 3, "name":"Socializando com amigos e família", "alias":"C"},
+        {"id": 4, "name":"Dedicação a hobbies ou interesses específicos", "alias":"D"}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "O que melhor descreve seu processo de tomada de decisão?",
+      "options": [
+        {"id": 1, "name":"Rápido e baseado em objetivos", "alias":"A"},
+        {"id": 2, "name":"Deliberado, buscando evitar riscos", "alias":"B"},
+        {"id": 3, "name":"Instintivo, com base em como me sinto", "alias":"C"},
+        {"id": 4, "name":"Cauteloso, com muita pesquisa e reflexão", "alias":"D"}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Como você lida com novas responsabilidades?",
+      "options": [
+        {"id": 1, "name":"Com entusiasmo e proatividade", "alias":"A"},
+        {"id": 2, "name":"Com cautela, avaliando o impacto na rotina", "alias":"B"},
+        {"id": 3, "name":"Com otimismo, vendo como uma oportunidade de aprendizado", "alias":"C"},
+        {"id": 4, "name":"Com preocupação, ponderando sobre a capacidade de execução", "alias":"D"}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Qual desses define melhor sua ética de trabalho?",
+      "options": [
+        {"id": 1, "name":"Orientado para resultados", "alias":"A"},
+        {"id": 2, "name":"Confiável e consistente", "alias":"B"},
+        {"id": 3, "name":"Flexível e colaborativo", "alias":"C"},
+        {"id": 4, "name":"Metódico e detalhista", "alias":"D"}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Como você se sente em relação a mudanças?",
+      "options": [
+        {"id": 1, "name":"Vejo como oportunidades para melhorar", "alias":"A"},
+        {"id": 2, "name":"Prefiro manter as coisas como estão", "alias":"B"},
+        {"id": 3, "name":"Adapto-me facilmente e com entusiasmo", "alias":"C"},
+        {"id": 4, "name":"Receio pelas incertezas que trazem", "alias":"D"}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Como você prefere comunicar suas ideias?",
+      "options": [
+        {"id": 1, "name":"De forma direta e ao ponto", "alias":"A"},
+        {"id": 2, "name":"De maneira calma e diplomática", "alias":"B"},
+        {"id": 3, "name":"Com entusiasmo e persuasão", "alias":"C"},
+        {"id": 4, "name":"Com detalhes e uma análise profunda", "alias":"D"}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Qual aspecto é mais desafiador para você em projetos de grupo?",
+      "options": [
+        {"id": 1, "name":"Paciência com a falta de ação", "alias":"A"},
+        {"id": 2, "name":"Conflitos e tensões no grupo", "alias":"B"},
+        {"id": 3, "name":"Manter o foco e não se distrair", "alias":"C"},
+        {"id": 4, "name":"Aceitar soluções menos que perfeitas", "alias":"D"}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Como você geralmente se sente em eventos sociais?",
+      "options": [
+        {"id": 1, "name":"Como um líder ou centro das atenções", "alias":"A"},
+        {"id": 2, "name":"Confortável, mas prefiro ficar nas laterais", "alias":"B"},
+        {"id": 3, "name":"Animado e sociável, falando com todos", "alias":"C"},
+        {"id": 4, "name":"Observador, até encontrar um tópico interessante", "alias":"D"}
+      ]
+    },
+    {
+      "id": 13,
+      "question": "O que te frustra mais facilmente?",
+      "options": [
+        {"id": 1, "name":"Lentidão e indecisão", "alias":"A"},
+        {"id": 2, "name":"Pressão e demandas urgentes", "alias":"B"},
+        {"id": 3, "name":"Rotina e falta de novidade", "alias":"C"},
+        {"id": 4, "name":"Desorganização e improvisação", "alias":"D"}
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Qual é a sua prioridade ao tomar decisões importantes?",
+      "options": [
+        {"id": 1, "name":"Eficiência e resultados", "alias":"A"},
+        {"id": 2, "name":"Estabilidade e segurança", "alias":"B"},
+        {"id": 3, "name":"Felicidade e satisfação pessoal", "alias":"C"},
+        {"id": 4, "name":"Precisão e corretude", "alias":"D"}
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Como você prefere receber feedback?",
+      "options": [
+        {"id": 1, "name":"De forma direta, mesmo que crítica", "alias":"A"},
+        {"id": 2, "name":"De maneira gentil e construtiva", "alias":"B"},
+        {"id": 3, "name":"Com entusiasmo e reconhecimento positivo", "alias":"C"},
+        {"id": 4, "name":"Detalhado, com exemplos específicos", "alias":"D"}
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Qual dessas atividades você prefere fazer no seu tempo livre?",
+      "options": [
+        {"id": 1, "name":"Competir em esportes ou jogos", "alias":"A"},
+        {"id": 2, "name":"Ler ou outras atividades tranquilas", "alias":"B"},
+        {"id": 3, "name":"Participar de festas ou eventos sociais", "alias":"C"},
+        {"id": 4, "name":"Pesquisar ou aprender algo novo", "alias":"D"}
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Como você lida com críticas?",
+      "options": [
+        {"id": 1, "name":"Vejo como um desafio para melhorar", "alias":"A"},
+        {"id": 2, "name":"Tento não levar para o lado pessoal", "alias":"B"},
+        {"id": 3, "name":"Pode me abalar, mas tento ver o lado positivo", "alias":"C"},
+        {"id": 4, "name":"Analiso profundamente para entender e corrigir", "alias":"D"}
+      ]
+    },
+    {
+      "id": 18,
+      "question": "O que te motiva a iniciar um novo hobby?",
+      "options": [
+        {"id": 1, "name":"A possibilidade de dominar uma nova habilidade", "alias":"A"},
+        {"id": 2, "name":"A chance de relaxar e desestressar", "alias":"B"},
+        {"id": 3, "name":"A oportunidade de socializar e compartilhar experiências", "alias":"C"},
+        {"id": 4, "name":"O interesse profundo por um tópico específico", "alias":"D"}
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Como você define sucesso?",
+      "options": [
+        {"id": 1, "name":"Alcançar minhas metas e liderar", "alias":"A"},
+        {"id": 2, "name":"Manter a paz e a harmonia pessoal", "alias":"B"},
+        {"id": 3, "name":"Ser feliz e ter muitos amigos", "alias":"C"},
+        {"id": 4, "name":"Ser reconhecido pela minha competência e conhecimento", "alias":"D"}
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Como você se sente diante de um grande projeto ou tarefa com prazo apertado?",
+      "options": [
+        {"id": 1, "name":"Encaro como um desafio e organizo imediatamente as ações necessárias", "alias":"A"},
+        {"id": 2, "name":"Preocupo-me em manter o equilíbrio e procuro dividir as tarefas de forma justa", "alias":"B"},
+        {"id": 3, "name":"Vejo como uma oportunidade para trabalhar em equipe e uso isso para motivar todos", "alias":"C"},
+        {"id": 4, "name":"Dedico tempo para planejar meticulosamente, focando em todos os detalhes", "alias":"D"}
       ]
     }
+    
+    
+    
+
+    
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Sua predominância é COLÉRICO(A) - Os coléricos são líderes natos, possuindo uma energia e uma paixão que os distinguem. Eles são ambiciosos, assertivos e geralmente vêem a vida como uma série de desafios a serem superados. Sua determinação é inabalável, e eles não têm medo de tomar decisões difíceis. Com uma inclinação para a ação, os coléricos podem, às vezes, ser impacientes com os outros, especialmente com aqueles que veem como indecisos ou preguiçosos. Eles valorizam a eficiência e a produtividade e podem ser extremamente críticos consigo mesmos e com os outros quando os resultados não atendem às suas expectativas. No entanto, essa mesma energia pode torná-los excelentes motivadores e inspiradores, capazes de levar equipes a alcançar grandes feitos. Os coléricos têm uma habilidade natural para liderança e frequentemente encontram-se em posições de poder e autoridade. No entanto, seu temperamento forte pode levar a conflitos, especialmente se não aprenderem a temperar sua franqueza com empatia e consideração pelos sentimentos dos outros.",
+    "B": "Sua predominância FLEUMÁTICA(O) - Os fleumáticos são o equilíbrio personificado. Calmos, confiáveis e consistentes, eles são frequentemente vistos como a rocha estável em grupos sociais ou no local de trabalho. Eles tendem a ser introvertidos, preferindo observar e ouvir a se lançar no centro das atenções. Os fleumáticos são excelentes mediadores, capazes de ver todos os lados de um argumento e encontrar soluções que satisfaçam a todos. Eles valorizam a paz e a harmonia acima de tudo e farão grandes esforços para evitar conflitos. Embora possam não ser os primeiros a tomar iniciativa, uma vez comprometidos com uma tarefa, são incrivelmente diligentes e confiáveis. Eles são leais, pensativos e têm uma capacidade notável para manter a calma sob pressão. Sua abordagem pragmática da vida os ajuda a tomar decisões sólidas e fundamentadas. No entanto, sua natureza pacífica pode às vezes ser vista como falta de paixão ou motivação, especialmente por temperOs fleumáticos são o equilíbrio personificado.",
+    "C": "Sua predominância SANGUÍNEA(O) - Os sanguíneos são a vida da festa. Eles são extrovertidos, carismáticos e amam estar em companhia de outros. Sua natureza otimista e entusiasmada os torna amigos populares e colegas de trabalho. Eles se adaptam facilmente a novas situações e são excelentes em pensar rapidamente. Os sanguíneos gostam de aventura e novidade, frequentemente buscando novas experiências e emoções. Eles podem, no entanto, lutar com a disciplina e a consistência, muitas vezes seguindo a próxima coisa brilhante antes de concluir projetos anteriores. Sua abordagem otimista da vida pode ser contagiosa, elevando o ânimo daqueles ao seu redor. No entanto, seu foco no presente pode, às vezes, levar à negligência de responsabilidades de longo prazo. Eles são comunicadores natos, capazes de persuadir e entreter com facilidade. A necessidade de estímulo constante pode levar a um certo grau de impulsividade, mas também a uma vida rica em experiências e histórias.",
+    "D": "Sua predominância MELANCÓLICA(O) - Os melancólicos são pensativos, analíticos e profundos. Eles possuem uma rica vida interior e frequentemente se dedicam à reflexão e análise. Altamente valorizando a ordem e o detalhe, eles tendem a ser perfeccionistas, o que pode levá-los à insatisfação quando as coisas não saem como planejado. Seu temperamento introspectivo faz com que sejam excelentes em campos que exigem atenção aos detalhes e profundidade de pensamento, como as artes, a ciência e a literatura. Eles são sensíveis e empáticos, capazes de compreender profundamente os sentimentos e emoções dos outros. No entanto, essa mesma sensibilidade pode ser uma faca de dois gumes, pois os melancólicos podem inclinar-se para a tristeza ou a depressão se sentirem que o mundo não atende às suas expectativas internas. Eles valorizam as relações profundas e significativas e são leais e dedicados a amigos e familiares. Apreciam a beleza em todas as suas formas e frequentemente expressam essa apreciação através da criatividade e da expressão artística."
   }
 }

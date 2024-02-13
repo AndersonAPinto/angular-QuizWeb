@@ -1,6 +1,6 @@
 <div class="quizz__container">
     <div class="quizz_logo">
-        <img src="assets/imgs/logo.png" alt="">
+        <a href="/"><img src="assets/imgs/logo.png" alt=""></a>
         <h3>{{title}}</h3>
     </div>
     <div  *ngIf="!finished" class="quizz_questions">
@@ -17,5 +17,7 @@
     <div *ngIf="finished" class="quizz_results">
         <h1>O Seu Resultado é:</h1>
         <p>{{answerSelected}}</p>
+        <button class="btn-start"><a href="/"><i class="fas fa-redo" style="color:#5CBF2A"></i></a>
+        </button>
     </div>
 </div>
