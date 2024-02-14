@@ -3,6 +3,8 @@
     margin: auto;
     margin-top: 10vh;
     background-color: #030303d7;
+    padding: 3px;
+    border-radius: 10px;
 }
 
 .quizz_logo{
@@ -13,7 +15,7 @@
     margin-bottom: 10px;
 }
 .quizz_logo > a > img{
-    width: 50vw;
+    width: 45vw;
     height: 16vh;
     border-radius: 5px;
     

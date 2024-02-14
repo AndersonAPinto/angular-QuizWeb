@@ -14,10 +14,9 @@
             {{option.name}}
         </button>
     </div>
-    <div *ngIf="!finished" class="quizz_results">
+    <div *ngIf="finished" class="quizz_results">
         <h1>O Seu Resultado é:</h1>
-        <p>Sua predominância é COLÉRICO(A) - Os coléricos são líderes natos, possuindo uma energia e uma paixão que os distinguem. Eles são ambiciosos, assertivos e geralmente vêem a vida como uma série de desafios a serem superados. Sua determinação é inabalável, e eles não têm medo de tomar decisões difíceis. Com uma inclinação para a ação, os coléricos podem, às vezes, ser impacientes com os outros, especialmente com aqueles que veem como indecisos ou preguiçosos. Eles valorizam a eficiência e a produtividade e podem ser extremamente críticos consigo mesmos e com os outros quando os resultados não atendem às suas expectativas. No entanto, essa mesma energia pode torná-los excelentes motivadores e inspiradores, capazes de levar equipes a alcançar grandes feitos. Os coléricos têm uma habilidade natural para liderança e frequentemente encontram-se em posições de poder e autoridade. No entanto, seu temperamento forte pode levar a conflitos, especialmente se não aprenderem a temperar sua franqueza com empatia e consideração pelos sentimentos dos outros.",
-        </p>
+        <p>{{answerSelected}}</p>
         <button class="btn-start"><a href="/"><i class="fas fa-redo" style="color:#5CBF2A"></i></a>
         </button>
     </div>
