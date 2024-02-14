@@ -8,7 +8,7 @@ import { CommonModule} from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './quizz.component.html',
-  styleUrl: './quizz.component.css'
+  styleUrls: ['./quizz.component.css', './quizz.componentMobile.css',]
 })
 
 export class QuizzComponent implements OnInit {
