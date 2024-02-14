@@ -1,7 +1,8 @@
 .quizz__container{
     width: 50%;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 10vh;
+    background-color: #030303d7;
 }
 
 .quizz_logo{
