@@ -1,27 +1,18 @@
-# ProjetoBuzzfeed
+![Img](src/assets/imgs/logo.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+# Teste de Temperamento
 
-## Development server
+## O teste é baseado em quatro tipos de personalidade principais:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Sanguíneo: Indivíduos otimistas e entusiastas que gostam de estar com outras pessoas e se divertir.
+### Colérico: Indivíduos líderes e autoconfiantes que gostam de tomar decisões e controlar as coisas.
+### Fleumático: Indivíduos pacíficos e calmos que gostam de evitar conflitos e seguir a rotina.
+### Melancólico: Indivíduos analíticos e introspectivos que gostam de pensar profundamente e analisar as coisas.
 
-## Code scaffolding
+## O teste consiste em 20 perguntas simples que você deve responder. Ao final do teste, o resultado com uma das quatro tipos de personalidade será revelada.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Acesse o site [AQUI]()
 
-## Build
+![GitHUb ](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
